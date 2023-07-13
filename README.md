@@ -1,9 +1,5 @@
 # Flutter Audio Visualizer
 
-<p align="center">
-    <img src="image0.png" width="160"/>
-</p>
-
 This program is to test flutter and dart, testing out a basic audio visualizer.
 
 # Contribution 

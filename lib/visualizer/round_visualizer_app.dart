@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../visualizer/round_visualizer_screen.dart';
+import 'round_visualizer_screen_state.dart';
 
 class RoundVisualizerApp extends StatelessWidget {
   const RoundVisualizerApp({super.key});
